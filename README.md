@@ -5,3 +5,8 @@ References :
 Book : Hands-On Data Structures and Algorithms with Rust
 
 Repo : [All go rhythms in RUST](https://github.com/TheAlgorithms/Rust)
+
+
+TODO :
+
+Get everything under cargo workspace
